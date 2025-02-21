@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/zichi/source/repos/Final/Final/Content/enemy.png","C:/Users/zichi/source/repos/Final/Final/Content/bin/Windows/enemy.xnb","TextureProcessor","Texture2DContent",36651,1626325,0.1980584
+"C:/Users/zichi/source/repos/Final/Final/Content/Score.spritefont","C:/Users/zichi/source/repos/Final/Final/Content/bin/Windows/Score.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21535,0.1320446
+"C:/Users/zichi/source/repos/Final/Final/Content/ship.png","C:/Users/zichi/source/repos/Final/Final/Content/bin/Windows/ship.xnb","TextureProcessor","Texture2DContent",3578,202585,0.0074599
+"C:/Users/zichi/source/repos/Final/Final/Content/shot.png","C:/Users/zichi/source/repos/Final/Final/Content/bin/Windows/shot.xnb","TextureProcessor","Texture2DContent",1517,925,0.0022837
